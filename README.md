@@ -15,7 +15,7 @@ An intelligent web summarization application that extracts textual content from 
 
 ---
 
-*A Sixth Semester Mini Project*
+*Extract • Understand • Summarize*
 
 </div>
 
